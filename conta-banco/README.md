@@ -23,11 +23,3 @@ O objetivo é criar um programa em **Java** que recebe informações de uma cont
 O código utiliza a classe `Scanner` para capturar os dados digitados pelo usuário e garante que o saldo seja inserido corretamente no formato decimal.
 
 [código](https://github.com/romildo-feliciano/dio-trilha-java-basico/blob/main/conta-banco/src/ContaTerminal.java)
-
-## Estrutura do Projeto
-📦 conta-banco
-  ┣ 📂 src
-  ┃ ┗ 📜 ContaTerminal.java
-  ┣ 📂 lib
-  ┣ 📜 .gitignore
-  ┗ 📜 README.md
