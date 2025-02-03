@@ -26,8 +26,8 @@ O código utiliza a classe `Scanner` para capturar os dados digitados pelo usuá
 
 ## Estrutura do Projeto
 📦 conta-banco
- ┣ 📂 src
- ┃ ┗ 📜 ContaTerminal.java
- ┣ 📂 lib
- ┣ 📜 .gitignore
- ┗ 📜 README.md
+   ┣ 📂 src
+   ┃ ┗ 📜 ContaTerminal.java
+   ┣ 📂 lib
+   ┣ 📜 .gitignore
+   ┗ 📜 README.md
