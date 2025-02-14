@@ -39,17 +39,17 @@ classDiagram
     class ReprodutorMusical {
         +tocar()
         +pausar()
-        +selecionarMusica(musica)
+        +selecionarMusica(String musica)
     }
 
     class AparelhoTelefonico {
-        +ligar(numero)
+        +ligar(String numero)
         +atender()
         +iniciarCorreioVoz()
     }
 
     class NavegadorInternet {
-        +exibirPagina(url)
+        +exibirPagina(String url))
         +adicionarNovaAba()
         +atualizarPagina()
     }
@@ -57,11 +57,11 @@ classDiagram
     class iPhone {
         +tocar()
         +pausar()
-        +selecionarMusica()
-        +ligar()
+        +selecionarMusica(String musica)
+        +ligar(String numero)
         +atender()
         +iniciarCorreioVoz()
-        +exibirPagina()
+        +exibirPagina(String url)
         +adicionarNovaAba()
         +atualizarPagina()
     }
