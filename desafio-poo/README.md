@@ -66,9 +66,9 @@ classDiagram
         +atualizarPagina()
     }
 
-    iPhone implements ReprodutorMusical
-    iPhone implements AparelhoTelefonico
-    iPhone implements NavegadorInternet
+    iPhone --> ReprodutorMusical
+    iPhone --> AparelhoTelefonico
+    iPhone --> NavegadorInternet
 ```
 
 ### 🔹 Código Implementado
